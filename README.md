@@ -1,5 +1,5 @@
-# Music Generator
-This music generator is based on LSTM model.
+# Music Composer
+This music composer is based on LSTM model.
 
 ### config.ini
 Config file stores parameters that should be set before music generation. Note that values of some parameters should be the same as during training.
