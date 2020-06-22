@@ -1,0 +1,13 @@
+Train parameters for this model:
+
+word dim 64
+layers 3
+batch 64
+seq_len 150
+cells 512
+bider False
+state False
+drop 0.25
+input_batch None
+
+Model was trained on reduced dataset.
