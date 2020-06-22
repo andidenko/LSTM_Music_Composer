@@ -1,6 +1,14 @@
 # Music Composer
 This music composer is based on LSTM model.
 
+### Dependencies
+To run this project you need following libraries to be installed:
+- tensorflow
+- keras
+- numpy
+- h5py
+- music21
+
 ### config.ini
 Config file stores parameters that should be set before music generation. Note that values of some parameters should be the same as during training.
 Config file parameters:
